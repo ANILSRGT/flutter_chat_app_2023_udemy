@@ -13,9 +13,19 @@ dependencies:
 
   # UI
   cupertino_icons: ^1.0.5
+  flutter_staggered_animations: ^1.1.1
+  cached_network_image: ^3.2.3
+
+  # Firebase
+  firebase_core: ^2.5.0
+  cloud_firestore: ^4.4.0
+  firebase_auth: ^4.2.8
+  firebase_storage: ^11.0.13
+  firebase_messaging: ^14.2.4
 
   # Utils
   flutter_dotenv: ^5.0.2
+  image_picker: ^0.8.6+1
 
 dev_dependencies:
   flutter_test:

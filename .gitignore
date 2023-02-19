@@ -1,5 +1,9 @@
 # Miscellaneous
 *.env
+*firebase_options.dart
+*google-services.json
+*firebase_app_id_file.json
+*GoogleService-Info.plist
 *.class
 *.log
 *.pyc
